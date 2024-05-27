@@ -14,7 +14,7 @@ game.StarterGui:SetCore("SendNotification", {
     Text = "Dance Codes Loaded , Press F9 For See Dance Codes"; 
     Duration = 2;
 })
-print("By 917Dream")
+print("Script By 917Dream")
 print("My Discord Name : _offlineplayer_")
 print("Dance Script Loading...")
 print("Wait a Bit")
