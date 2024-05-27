@@ -1,0 +1,33 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Dance Script Loading...";
+    Text = "Wait A Bit!"; 
+    Button1 = "Okay!"
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "/e dance1";
+    Text = "Dance 1"; 
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "/e dance2";
+    Text = "Dance 2"; 
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "/e dance3";
+    Text = "Dance 3"; 
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "/e laugh";
+    Text = "Laugh"; 
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "/e cheer";
+    Text = "Cheer"; 
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "/e point";
+    Text = "Point"; 
+})
+game.StarterGui:SetCore("SendNotification", {
+    Title = "/e wave";
+    Text = "Wave"; 
+})
