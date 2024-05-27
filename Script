@@ -1,50 +1,17 @@
 game.StarterGui:SetCore("SendNotification", {
-    Title = "By 917Dream";
+    Title = "Script By 917Dream";
     Text = "My Discord Name : _offlineplayer_"; 
+    Duration = 2;
 })
 game.StarterGui:SetCore("SendNotification", {
     Title = "Dance Script Loading...";
     Text = "Wait a Bit"; 
-    Button1 = "Okay!"
-})
-game.StarterGui:SetCore("SendNotification", {
-    Title = "/e dance1";
-    Text = "Dance 1"; 
     Duration = 2;
 })
-game.StarterGui:SetCore("SendNotification", {
-    Title = "/e dance2";
-    Text = "Dance 2"; 
-    Duration = 2
-})
-game.StarterGui:SetCore("SendNotification", {
-    Title = "/e dance3";
-    Text = "Dance 3"; 
-    Duration = 2;
-})
-game.StarterGui:SetCore("SendNotification", {
-    Title = "/e laugh";
-    Text = "Laugh"; 
-    Duration = 2;
-})
-game.StarterGui:SetCore("SendNotification", {
-    Title = "/e cheer";
-    Text = "Cheer"; 
-    Duration = 2;
-})
-game.StarterGui:SetCore("SendNotification", {
-    Title = "/e point";
-    Text = "Point"; 
-    Duration = 2;
-})
-game.StarterGui:SetCore("SendNotification", {
-    Title = "/e wave";
-    Text = "Wave"; 
-    Duration = 2;
-})
+wait(4)
 game.StarterGui:SetCore("SendNotification", {
     Title = "Loaded";
-    Text = "Dances Loaded İf You Dont See Press F9 For See Emote Codes"; 
+    Text = "Dance Codes Loaded , Press F9 For See Dance Codes"; 
     Duration = 2;
 })
 print("By 917Dream")
@@ -59,3 +26,4 @@ print("/e cheer = Cheer")
 print("/e point = Point")
 print("/e wave = Wave")
 print("Loaded!")
+print("Enjoy!")
